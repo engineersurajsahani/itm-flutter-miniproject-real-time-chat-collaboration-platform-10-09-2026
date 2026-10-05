@@ -1,0 +1,14 @@
+.git
+.dart_tool
+.idea
+build
+coverage
+backend/.env
+backend/dist
+backend/node_modules
+android
+ios
+assets
+lib
+test
+web
